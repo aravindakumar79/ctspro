@@ -1,2 +1,2 @@
-print(2nd day this file modified")
-print("Welcome to GIT Lab")
+print(3nd day this file modified")
+print("and also github lab")
